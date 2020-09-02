@@ -1,7 +1,7 @@
 var request = require('request');
 
 function printResponse(status_code, response) {
-  if ([200, 201, 204].includes(status_code))
+  if (![200, 201, 204].includes(status_code))
     console.log('Error: ', status_code, response);
   else
     console.log(response);

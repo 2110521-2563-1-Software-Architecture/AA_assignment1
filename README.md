@@ -11,9 +11,13 @@
 ## 1. Screenshots of Swagger for your APIs in 2. 
 
 ![GitHub Logo](/swagger.png)
-Format: ![Alt Text](url)
 
 ## 2. Source codes of 2 and 3. 
+
+* https://github.com/2110521-2563-1-Software-Architecture/AA_assignment1/blob/master/rest/client.js -client
+* https://github.com/2110521-2563-1-Software-Architecture/AA_assignment1/blob/master/rest/server.js -server
+
+
 ## 3. Compare how to call the methods based on gRPC and REST API side-by-side, e.g. in a Table format as shown below. 
 
 
@@ -44,7 +48,4 @@ Watch books | Node interface.js grpc watch | -
 ## 7. Draw a component diagram representing the book services with and without interfaces. 
 
 ![GitHub Logo](/with_interface.png)
-Format: ![Alt Text](url)
-
 ![GitHub Logo](/without_interface.png)
-Format: ![Alt Text](url)
